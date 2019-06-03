@@ -1,5 +1,7 @@
 # Nubi
-cara Pakai 
+cara Pakai
+chmod +x install.sh
+chmod +x linuxer.sh
 ./install.sh
 ./linuxer.sh
 Terimakasih
